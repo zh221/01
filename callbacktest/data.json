@@ -1,0 +1,23 @@
+{
+    "page1":{
+    "msgType":"IP_UPDATE",
+    "msgBody":{
+        "ipList":[
+            {"IP1":"127.0.0.1"},
+            {"IP2":"127.0.0.2"},
+            {"IP3":"127.0.0.3"}
+        ]
+    }
+},
+
+    "page2":{
+        "msgType":"IP_UPDATE",
+        "msgBody":{
+            "ipList":[
+                {"ID":"127.0.0.1","type":"a"},
+                {"ID":"127.0.0.2","type":"b"},
+                {"ID":"127.0.0.3","type":"c"}
+            ]
+        }
+    }
+}

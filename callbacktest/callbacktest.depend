@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1638107987 source:e:\c++\callback\test\callbacktest\mytest.cpp
+	"MyTest.h"
+	<iostream>
+	<string>
+	"json/json.h"
+
+1638100922 e:\c++\callback\test\callbacktest\mytest.h
+	<iostream>
+	<string>
+
+1638020749 e:\c++\callback\test\callbacktest\json\json.h
+	"config.h"
+	"json_features.h"
+	"reader.h"
+	"value.h"
+	"writer.h"
+
+1638020749 e:\c++\callback\test\callbacktest\json\config.h
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+
+1638020749 e:\c++\callback\test\callbacktest\json\allocator.h
+	<cstring>
+	<memory>
+
+1638020749 e:\c++\callback\test\callbacktest\json\version.h
+
+1638020749 e:\c++\callback\test\callbacktest\json\json_features.h
+	"forwards.h"
+
+1638020749 e:\c++\callback\test\callbacktest\json\forwards.h
+	"config.h"
+
+1638020749 e:\c++\callback\test\callbacktest\json\reader.h
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+
+1638020749 e:\c++\callback\test\callbacktest\json\value.h
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+
+1638020749 e:\c++\callback\test\callbacktest\json\writer.h
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+
+1638107955 source:e:\c++\callback\test\callbacktest\main.cpp
+	<iostream>
+	"MyTest.h"
+
+1638087373 source:e:\c++\callback\test\callbacktest\json\dist\jsoncpp.cpp
+	"json/json.h"
+	<json/config.h>
+	<clocale>
+	"json_tool.h"
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	<algorithm>
+	<cassert>
+	<cstring>
+	<iostream>
+	<istream>
+	<limits>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cstdio>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstring>
+	<iostream>
+	<sstream>
+	<utility>
+	<stdarg.h>
+	"json_valueiterator.inl"
+	"json_tool.h"
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cmath>
+	<cstdio>
+	<cmath>
+	<cstdio>
+	<float.h>
+	<float.h>
+	<ieeefp.h>
+
+1638087373 e:\c++\callback\test\callbacktest\json\dist\json\json.h
+	<cstring>
+	<memory>
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	"config.h"
+
+1638088050 source:e:\c++\callback\test\callbacktest\json\json_reader.cpp
+	"json_tool.h"
+	"assertions.h"
+	"reader.h"
+	"value.h"
+	<algorithm>
+	<cassert>
+	<cstring>
+	<iostream>
+	<istream>
+	<limits>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cstdio>
+
+1638088017 e:\c++\callback\test\callbacktest\json\json_tool.h
+	"config.h"
+	<clocale>
+
+1638020749 e:\c++\callback\test\callbacktest\json\assertions.h
+	<cstdlib>
+	<sstream>
+	"config.h"
+
+1638088066 source:e:\c++\callback\test\callbacktest\json\json_value.cpp
+	"assertions.h"
+	"value.h"
+	"writer.h"
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstring>
+	<iostream>
+	<sstream>
+	<utility>
+	<stdarg.h>
+	"json_valueiterator.inl"
+
+1638020749 e:\c++\callback\test\callbacktest\json\json_valueiterator.inl
+
+1638088075 source:e:\c++\callback\test\callbacktest\json\json_writer.cpp
+	"json_tool.h"
+	"writer.h"
+	<algorithm>
+	<cassert>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cmath>
+	<cstdio>
+	<cmath>
+	<cstdio>
+	<float.h>
+	<float.h>
+	<ieeefp.h>
+
